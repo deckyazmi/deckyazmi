@@ -59,7 +59,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
 - [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)
 - [Clone GOOGLE with Tailwind CSS - How Google was Built in the 90s vs TODAY!](https://www.youtube.com/watch?v=8ETmAEf793g)
@@ -74,7 +73,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
