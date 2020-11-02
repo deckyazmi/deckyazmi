@@ -1,6 +1,6 @@
 ### Hi there, I'm Decky [DeckyAzmi][website] 👋
 
-[![Website](https://img.shields.io/website?label=My Blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://deckyazmi.blogspot.com)
+[![Website](https://img.shields.io/website?label=My%20Blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://deckyazmi.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Nerd !! 🤣
@@ -74,6 +74,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
