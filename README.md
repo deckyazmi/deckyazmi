@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=My%20Blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://deckyazmi.blogspot.com)
 [![Instagram Follow](https://img.shields.io/badge/dynamic/json.svg?label=Ig&color=f705b3&labelColor=fff2fb&style=for-the-badge&logo=instagram&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.ig.name)](https://instagram.com/deckyazmi)
 
-## About Me !! 🤣
+## About Me !! 👨
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -97,7 +97,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deckyazmi&show_icons=true&hide_border=true" />
+  <img align="left" alt="DeckyAzmi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deckyazmi&show_icons=true&hide_border=false" />
 
 </details>
 
