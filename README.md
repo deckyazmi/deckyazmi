@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="deckyazmi Spotify Playing" width="350" />](https://open.spotify.com/user/tk58b85vldt0jpdsjyguu6lye)
+[<img src="https://novatorem.deckyazmi.vercel.app/" alt="deckyazmi Spotify Playing" width="350" />](https://open.spotify.com/user/tk58b85vldt0jpdsjyguu6lye)
 
 ---
 
