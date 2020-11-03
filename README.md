@@ -7,8 +7,9 @@
 
 ### Connect With Me
 
-[![blog](https://img.shields.io/badge/dynamic/json.svg?label=Ig&color=f705b3&labelColor=fff2fb&style=for-the-badge&logo=blogger&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.blog)](https://deckyazmi.blogspot.com)
-[![Instagram Follow](https://img.shields.io/badge/dynamic/json.svg?label=Ig&color=f705b3&labelColor=fff2fb&style=for-the-badge&logo=instagram&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.ig)](https://instagram.com/deckyazmi)
+[![blog](https://img.shields.io/badge/dynamic/json.svg?label=Ig&color=f77a05&labelColor=fff2fb&style=for-the-badge&logo=blogger&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.blog)](https://deckyazmi.blogspot.com)
+[![Instagram](https://img.shields.io/badge/dynamic/json.svg?label=Ig&color=f705b3&labelColor=fff2fb&style=for-the-badge&logo=instagram&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.ig)](https://instagram.com/deckyazmi)
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?label=Follow&color=03b5fc&labelColor=fff2fb&style=for-the-badge&logo=twitter&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdecky_azmi&screen_name=decky_azmi)
 
 ### Spotify Playing 🎧
 
