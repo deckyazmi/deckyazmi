@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, DeckyAzmi here 🤣</h1>
-<h3 align="center">A Noob Programer who want to learn anything🤣</h3>
+<body style="background-color:powderblue;"><h1 align="center">Hi 👋, DeckyAzmi here 🤣</h1>
+<h3 align="center"><em>A Noob Programer who want to learn anything🤣</em></h3>
 
-<details open align="center"><summary><h2 align="center">Connect With Me</h2></summary>
+<img align='right' src="https://camo.githubusercontent.com/f640277e02f10e88aa03849c60df137c1940efc3/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966" width="230">
+<!-- <details open align="center"><summary><h2 align="center">Connect With Me</h2></summary> -->
+<div align="center">
 
 [![blog](https://img.shields.io/badge/dynamic/json.svg?label=Blog&color=f77a05&labelColor=ffdebf&style=for-the-badge&logo=blogger&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.blog)](https://deckyazmi.blogspot.com)
 [![Instagram](https://img.shields.io/badge/dynamic/json.svg?label=Ig&color=f705b3&labelColor=fff2fb&style=for-the-badge&logo=instagram&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.ig)](https://instagram.com/deckyazmi)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?label=Twitter&color=03b5fc&labelColor=cff1ff&style=for-the-badge&logo=twitter&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdecky_azmi&screen_name=decky_azmi)
 [![ask.FM](https://img.shields.io/badge/dynamic/json.svg?label=ask.fm&color=c9424e&labelColor=ffe0d9&style=for-the-badge&logo=askfm&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.askfm)](https://ask.fm/deckyazmi)
 
-</details>
+</div>
+<!-- </details> -->
 
 <details align="center"><summary><h2 align="center">Language And Tools</h2></summary>
 
