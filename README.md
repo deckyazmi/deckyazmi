@@ -81,7 +81,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="DeckyAzmi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deckyazmi&show_icons=true&hide_border=true&theme=Gradient" /> <br/>
+<img align="left" alt="DeckyAzmi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deckyazmi&show_icons=true&hide_border=true&theme=synthwave" /> <br/>
 
   <img align="left" alt="DeckyAzmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckyazmi&layout=compact" />
 
