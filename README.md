@@ -5,8 +5,6 @@
 <!-- <details open align="center"><summary><h2 align="center">Connect With Me</h2></summary> -->
 <div align="center">
 
-### Connect With Me
-
 [![blog](https://img.shields.io/badge/dynamic/json.svg?label=Blog&color=f77a05&labelColor=ffdebf&style=for-the-badge&logo=blogger&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.blog)](https://deckyazmi.blogspot.com)
 [![Instagram](https://img.shields.io/badge/dynamic/json.svg?label=Ig&color=f705b3&labelColor=fff2fb&style=for-the-badge&logo=instagram&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.ig)](https://instagram.com/deckyazmi)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?label=Twitter&color=03b5fc&labelColor=cff1ff&style=for-the-badge&logo=twitter&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdecky_azmi&screen_name=decky_azmi)
