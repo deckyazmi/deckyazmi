@@ -41,7 +41,7 @@
 
 <div align="center"><h2 align="center"><em>when I learn a new programing languange</em></h2>
 
-<img align='left' src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="100%"/>
+<img align='left' src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="100%" height="50%"/>
 
 </div>
 
