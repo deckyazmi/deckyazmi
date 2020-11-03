@@ -2,7 +2,7 @@
 <h3 align="center"><em>A Noob Programer who want to learn anything🤣</em></h3>
 
 <img align='right' src="https://camo.githubusercontent.com/f640277e02f10e88aa03849c60df137c1940efc3/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966" width="330">
-<!-- <details open align="center"><summary><h2 align="center">Connect With Me</h2></summary> -->
+
 <div align="center">
 
 [![blog](https://img.shields.io/badge/dynamic/json.svg?label=Blog&color=f77a05&labelColor=ffdebf&style=for-the-badge&logo=blogger&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.blog)](https://deckyazmi.blogspot.com)
@@ -19,13 +19,7 @@
 
 <br />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deckyazmi" alt="deckyazmi" /></a> </p>
-
-<!-- ### Spotify Playing 🎧
-
-[<img src="https://novatorem.deckyazmi.vercel.app/api/spotify-playing" alt="deckyazmi Spotify Playing" width="350" />](https://open.spotify.com/user/tk58b85vldt0jpdsjyguu6lye) -->
-
----
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deckyazmi" alt="deckyazmi" /></a></p>
 
 ### 📺 Latest YouTube Videos
 
@@ -45,25 +39,9 @@
 
 ---
 
-### 📕 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="DeckyAzmi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deckyazmi&show_icons=true&hide_border=true&theme=synthwave" />
-
-  <br/>
-
-  <img align="left" alt="DeckyAzmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckyazmi&layout=compact" />
-
-</details> -->
-
 <div align="center"><h2 align="center"><em>when I learn a new programing languange</em></h2>
 
-<img align='left' src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif"/>
+<img align='left' src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="100%"/>
 
 </div>
 
