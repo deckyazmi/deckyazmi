@@ -1,13 +1,14 @@
-### Hi, DeckyAzmi Here !! 👋
-
-[![Website](https://img.shields.io/website?label=My%20Blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://deckyazmi.blogspot.com)
-[![Instagram Follow](https://img.shields.io/badge/dynamic/json.svg?label=Ig&color=f705b3&labelColor=fff2fb&style=for-the-badge&logo=instagram&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.ig.name)](https://instagram.com/deckyazmi)
-
 ## About Me !! 👨
 
+- Hi, Decky Azmi here 👋
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
+
+### Connect With Me
+
+[![blog](//img.shields.io/badge/dynamic/json.svg?label=Ig&color=f705b3&labelColor=fff2fb&style=for-the-badge&logo=blogger&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$.SocialAccount.blog)](https://deckyazmi.blogspot.com)
+[![Instagram Follow](https://img.shields.io/badge/dynamic/json.svg?label=Ig&color=f705b3&labelColor=fff2fb&style=for-the-badge&logo=instagram&url=https://raw.githubusercontent.com/deckyazmi/deckyazmi/master/sociallaccount.json&query=$SocialAccount.ig)](https://instagram.com/deckyazmi)
 
 ### Spotify Playing 🎧
 
@@ -89,9 +90,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[blog]: https://deckyazmi.blogspot.com
+[twitter]: https://twitter.com/deckyazmi
+[youtube]: https://youtube.com/deckyazmi
+[instagram]: https://instagram.com/deckyazmi
+[linkedin]: https://linkedin.com/in/deckyazmi
