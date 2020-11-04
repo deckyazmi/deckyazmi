@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, DeckyAzmi here 🙋🏻‍♂️</h1>
 <h3 align="center"><em>A Noob Programer who want to learn anything🤣</em></h3>
 
-<img align='right' src="https://camo.githubusercontent.com/f640277e02f10e88aa03849c60df137c1940efc3/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966" width="330">
+<a href="#"><img align='right' src="https://camo.githubusercontent.com/f640277e02f10e88aa03849c60df137c1940efc3/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966" width="330"></a>
 
 <div align="center">
 
